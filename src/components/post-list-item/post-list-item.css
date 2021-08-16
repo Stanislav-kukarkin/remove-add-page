@@ -41,8 +41,8 @@
 }
 
 .app-list-item.like .fa-heart {
-    opacity: 1;
-    transform: translateX(0px);
+  opacity: 1;
+  transform: translateX(0px);
 }
 
 .app-list-item.important .app-list-item-label {
